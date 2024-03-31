@@ -45,6 +45,11 @@ ruleset=🍑 DMMCOJP,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule
 ruleset=📺 巴哈姆特,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list
 ruleset=📺 Bilibili,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
 ruleset=📺 Bilibili,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
+ruleset=📺 台湾IQIYI,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/iQIYI/iQIYI.list
+ruleset=📺 台湾HBOgo,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBOAsia/HBOAsia.list
+ruleset=📺 台湾Friday,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/HBOAsia/HBOAsia.list
+ruleset=📺 日本媒体,https://raw.githubusercontent.com/windfall4us/MyClashRule/main/jp.list
+ruleset=📺 Clubhouse,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Clubhouse/Clubhouse.list
 ruleset=🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 ruleset=🌍 国外媒体,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/ProxyMedia.list
 ruleset=📰 微博,https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/weibo.list
@@ -130,6 +135,7 @@ custom_proxy_group=🇦🇺 澳大利亚节点`select`(土澳|澳大利亚|澳|A
 custom_proxy_group=🇵🇭 菲律宾节点`select`(菲|PH)
 custom_proxy_group=🇹🇭 泰国节点`select`(泰|TH)
 custom_proxy_group=🇵🇰 巴基斯坦节点`select`(巴基斯坦|PK)
+custom_proxy_group=🇳🇬 尼日利亚`select`(尼日利亚|NGR)
 custom_proxy_group=🇷🇺 俄罗斯`select`(俄|俄罗斯|RUS|RF)
 ;设置分组标志位
 
